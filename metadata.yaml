@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25199
 description: When Colonel Steele takes his two nieces to Venice, he tries hard to
   conceal his memories from them.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23859#A-Venetian-June
 gutenberg_issued: '2007-12-14'
 gutenberg_type: Text
 identifiers:
